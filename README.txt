@@ -7,4 +7,5 @@ bug1234 branch created
 feature2 branch is created
 changes added to feature2 branch
 feature3 branch created
+Fix1 added to V1.0Fixes branch
 
